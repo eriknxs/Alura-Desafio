@@ -9,3 +9,4 @@ function horario(){
 }
 let horario='tarde'
 horario()
+console.log
